@@ -5,6 +5,6 @@ public class cheer {
         System.out.println("Java is the best!");
         System.out.println("new new one");
         System.out.println("new new one");
-        System.out.println("denys denys one");
+        System.out.println("denys new one");
     }
 }
