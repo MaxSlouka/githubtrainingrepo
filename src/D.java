@@ -7,5 +7,10 @@ public class D {
         System.out.println(word1 + "," + word2);
         System.out.println(word1 + "," + word2);
         System.out.println(word1 + "," + word2);
+        System.out.println(word1 + "," + word2);
+        System.out.println(word1 + "," + word2);
+        System.out.println(word1 + "," + word2);
+        System.out.println(word1 + "," + word2);
+        System.out.println(word1 + "," + word2);
     }
 }
