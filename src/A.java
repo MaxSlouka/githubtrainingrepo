@@ -5,7 +5,8 @@ public class A {
         System.out.println(greet("Max"));
     }
 
-    public static String greet(String name) {
-        return "Hi " + name;
+
+    public static void greet() {
+        System.out.println("greetings");
     }
 }
