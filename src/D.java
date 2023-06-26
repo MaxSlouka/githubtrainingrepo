@@ -1,5 +1,6 @@
 public class D {
-    public void future(String word1, String word2) {
-        System.out.println(word1 + "," + word2);
+
+    public void future(String word) {
+        System.out.println("Your future looks like " + word + "!");
     }
 }
