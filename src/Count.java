@@ -1,6 +1,8 @@
 public class Count {
 
-    public void count(int number, int number2) {
-        System.out.println(number + number2);
+
+    public void count() {
+        System.out.println("Counting the countless parameter");
+
     }
 }
