@@ -1,5 +1,5 @@
 public class D {
-    public static void main(String[] args) {
-        System.out.println("Sagittarius");
+    public void methodD(String word) {
+        System.out.println(word);
     }
 }
