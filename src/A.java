@@ -5,7 +5,7 @@ public class A {
         System.out.println(greet());
     }
 
-    public static String greet() {
-        return "Hi Max";
+    public static void greet() {
+        System.out.println("greetings");
     }
 }
