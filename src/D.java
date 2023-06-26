@@ -1,5 +1,5 @@
 public class D {
-    public void methodD(String word) {
+    public void future(String word) {
         System.out.println(word);
     }
 }
